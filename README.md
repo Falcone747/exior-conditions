@@ -1,9 +1,8 @@
-# Conditions EXIOR
+# Conditions générales de prestation EXIOR
 
 Conditions applicables aux missions EXIOR référencées dans votre devis.
 
-- Version : 20 novembre 2026
-- Contenu : conditions particulières de la mission et annexe RGPD (article 28)
+- Contenu : conditions générales de prestation et annexe RGPD (article 28)
 - Contact : gbauchart.pro@gmail.com
 
-Page publique destinée à l’acceptation des conditions lors du paiement. Le PDF des conditions particulières peut être téléchargé depuis la page.
+Page publique destinée à l’acceptation des conditions lors du paiement. Le PDF des conditions générales peut être téléchargé depuis la page.
